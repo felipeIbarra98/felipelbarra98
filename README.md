@@ -1,53 +1,71 @@
-# Hola, soy Felipe 👋
-
-Ingeniero electrónico y especialista en TIC, orientado a Cloud Computing,
-DevSecOps y ciberseguridad defensiva.
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Adrián Felipe Ibarra López - Cloud Security, DevSecOps y ciberseguridad defensiva" width="100%">
+</p>
 
 ## Sobre mí
 
-- Formación en AWS Cloud y seguridad cloud.
+Ingeniero electrónico y estudiante de especialización en Tecnologías de la
+Información y las Comunicaciones, orientado a **Cloud Security, DevSecOps y
+ciberseguridad defensiva**.
+
+Construyo laboratorios y soluciones que combinan infraestructura cloud,
+automatización, redes y desarrollo backend. Actualmente busco oportunidades
+junior en **Cloud, Cloud Security o DevSecOps**, con proyección hacia
+arquitectura cloud segura.
+
+## Enfoque técnico
+
+- **Cloud y seguridad:** AWS, IAM, VPC, monitoreo, hardening y seguridad de redes.
+- **DevSecOps y automatización:** Linux, Docker, GitHub Actions, CI/CD y Git.
+- **Desarrollo backend:** Python, FastAPI, APIs REST, PostgreSQL y SQLite.
+
+## Proyectos publicados
+
+### [AWS E-commerce Lab](https://github.com/felipelbarra98/aws-ecommerce-lab)
+
+Caso técnico de arquitectura web segura en AWS con VPC, EC2, S3, controles IAM,
+cifrado, monitoreo y análisis de mejoras para alta disponibilidad.
+
+`AWS` `Cloud Security` `VPC` `EC2` `S3` `IAM`
+
+### [ViviSmart Cybersecurity Lab](https://github.com/felipelbarra98/vivismart-cybersecurity-lab)
+
+Laboratorio autorizado de ciberseguridad para un entorno IoT, enfocado en
+segmentación de red, reglas de firewall y validaciones defensivas.
+
+`pfSense` `Nmap` `Metasploit` `VirtualBox` `Network Security`
+
+<details>
+<summary><strong>Otros productos y soluciones desarrollados</strong></summary>
+
+<br>
+
+| Proyecto | Alcance | Publicación prevista |
+| --- | --- | --- |
+| **NovaHotel PMS** | PMS multiempresa y multihotel con reservas, check-in, habitaciones, caja, roles y operación hotelera. | Caso técnico y repositorio después de la auditoría de seguridad. |
+| **NovaPOS** | Sistema de ventas, inventario, compras, clientes, créditos, caja, usuarios y reportes. | Caso técnico público sin información comercial ni datos de clientes. |
+| **Sistema de gestión funeraria** | Gestión de afiliados, contratos, servicios, pagos, caja, recordatorios y documentos. | Caso técnico sanitizado; el código y las plantillas del cliente permanecerán privados. |
+| **Control360** | Plataforma personal para finanzas, tareas, recordatorios, hábitos y proyectos. | Repositorio público después de revisar configuración y credenciales. |
+| **NovaTIC Solutions** | Sitio corporativo y portafolio de servicios tecnológicos. | Código y enlace de despliegue cuando se consolide la versión pública. |
+
+</details>
+
+> Los productos comerciales o desarrollados para clientes se presentarán mediante
+> casos técnicos sanitizados. No se publicarán bases de datos, credenciales,
+> documentos privados ni código sujeto a restricciones comerciales.
+
+## Formación complementaria
+
+- AWS Academy Cloud Foundations.
+- AWS Academy Cloud Security Foundations.
+- AWS Academy Cloud Security Builder.
+- AWS Academy Cloud Web Application Builder.
 - Cisco CyberOps Associate.
-- Experiencia con Python, FastAPI, PostgreSQL e IoT.
-- Interés en automatización, CI/CD, infraestructura como código y monitoreo.
-- Actualmente fortaleciendo conocimientos en Docker, Linux, AWS y DevSecOps.
 
-## Tecnologías
+## Actualmente fortaleciendo
 
-### Cloud e infraestructura
-AWS · Linux · Docker · Redes · GitHub Actions
-
-### Desarrollo
-Python · FastAPI · SQLAlchemy · REST APIs
-
-### Bases de datos
-PostgreSQL · SQLite
-
-### Ciberseguridad
-IAM · Seguridad cloud · Análisis de logs · Hardening · CyberOps
-
-## Proyectos destacados
-
-### AWS E-commerce Lab
-Arquitectura segura y altamente disponible en AWS, con controles IAM,
-cifrado, monitoreo y buenas prácticas de seguridad.
-
-### Proyecto de ciberseguridad para IoT
-Diseño de controles de seguridad para dispositivos inteligentes y
-plataformas de gestión de energía doméstica.
-
-### Sistema de ventas e inventario
-Aplicación cliente-servidor construida con Python, FastAPI y PostgreSQL,
-implementada en múltiples equipos dentro de una red local.
-
-## Insignias y formación
-
-- AWS Academy Cloud Foundations
-- AWS Academy Cloud Security Foundations
-- AWS Academy Cloud Security Builder
-- AWS Academy Cloud Web Application Builder
-- Cisco CyberOps Associate
+`AWS` · `Linux` · `Docker` · `DevSecOps` · `Infraestructura como código`
 
 ## Contacto
 
-- LinkedIn: colocar enlace
-- Correo: colocar correo profesional
+[LinkedIn](https://www.linkedin.com/in/adrian-felipe-ibarra-lopez/) · Colombia

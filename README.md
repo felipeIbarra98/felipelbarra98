@@ -21,37 +21,42 @@ arquitectura cloud segura.
 
 ## Proyectos publicados
 
-### [AWS E-commerce Lab](https://github.com/felipelbarra98/aws-ecommerce-lab)
+Actualmente mi perfil reúne cuatro proyectos técnicos públicos, además de este
+repositorio de presentación.
+
+### [AWS E-commerce Lab](https://github.com/felipeIbarra98/aws-ecommerce-lab)
 
 Caso técnico de arquitectura web segura en AWS con VPC, EC2, S3, controles IAM,
 cifrado, monitoreo y análisis de mejoras para alta disponibilidad.
 
 `AWS` `Cloud Security` `VPC` `EC2` `S3` `IAM`
 
-### [ViviSmart Cybersecurity Lab](https://github.com/felipelbarra98/vivismart-cybersecurity-lab)
+### [ViviSmart Cybersecurity Lab](https://github.com/felipeIbarra98/vivismart-cybersecurity-lab)
 
 Laboratorio autorizado de ciberseguridad para un entorno IoT, enfocado en
 segmentación de red, reglas de firewall y validaciones defensivas.
 
 `pfSense` `Nmap` `Metasploit` `VirtualBox` `Network Security`
 
-<details>
-<summary><strong>Otros productos y soluciones desarrollados</strong></summary>
+### [NovaPOS](https://github.com/felipeIbarra98/novapos-pos-system)
 
-<br>
+Sistema POS cliente-servidor para ventas, inventario, compras, clientes,
+créditos, caja, usuarios, reportes y respaldos. Integra una aplicación de
+escritorio con una API y una base de datos relacional.
 
-| Proyecto | Alcance | Publicación prevista |
-| --- | --- | --- |
-| **NovaHotel PMS** | PMS multiempresa y multihotel con reservas, check-in, habitaciones, caja, roles y operación hotelera. | Caso técnico y repositorio después de la auditoría de seguridad. |
-| **NovaPOS** | Sistema de ventas, inventario, compras, clientes, créditos, caja, usuarios y reportes. | Caso técnico público sin información comercial ni datos de clientes. |
-| **Sistema de gestión funeraria** | Gestión de afiliados, contratos, servicios, pagos, caja, recordatorios y documentos. | Caso técnico sanitizado; el código y las plantillas del cliente permanecerán privados. |
-| **NovaTIC Solutions** | Sitio corporativo y portafolio de servicios tecnológicos. | Código y enlace de despliegue cuando se consolide la versión pública. |
+`Python` `PySide6` `FastAPI` `PostgreSQL` `Alembic` `REST API`
 
-</details>
+### [Sistema de Gestión Funeraria](https://github.com/felipeIbarra98/funeral-management-desktop)
 
-> Los productos comerciales o desarrollados para clientes se presentarán mediante
-> casos técnicos sanitizados. No se publicarán bases de datos, credenciales,
-> documentos privados ni código sujeto a restricciones comerciales.
+Aplicación de escritorio para gestionar afiliados, beneficiarios, contratos,
+servicios funerarios, pagos, caja, recordatorios y documentos. Incluye
+generación de plantillas Word, respaldos y operación local con SQLite.
+
+`Python` `PySide6` `SQLite` `Document Automation` `PyInstaller`
+
+> Los repositorios de productos comerciales se publican como ediciones de
+> portafolio sanitizadas, sin bases de datos, credenciales, documentos privados
+> ni información de clientes.
 
 ## Formación complementaria
 

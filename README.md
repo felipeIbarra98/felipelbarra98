@@ -45,7 +45,6 @@ segmentación de red, reglas de firewall y validaciones defensivas.
 | **NovaHotel PMS** | PMS multiempresa y multihotel con reservas, check-in, habitaciones, caja, roles y operación hotelera. | Caso técnico y repositorio después de la auditoría de seguridad. |
 | **NovaPOS** | Sistema de ventas, inventario, compras, clientes, créditos, caja, usuarios y reportes. | Caso técnico público sin información comercial ni datos de clientes. |
 | **Sistema de gestión funeraria** | Gestión de afiliados, contratos, servicios, pagos, caja, recordatorios y documentos. | Caso técnico sanitizado; el código y las plantillas del cliente permanecerán privados. |
-| **Control360** | Plataforma personal para finanzas, tareas, recordatorios, hábitos y proyectos. | Repositorio público después de revisar configuración y credenciales. |
 | **NovaTIC Solutions** | Sitio corporativo y portafolio de servicios tecnológicos. | Código y enlace de despliegue cuando se consolide la versión pública. |
 
 </details>

@@ -70,5 +70,6 @@ segmentación de red, reglas de firewall y validaciones defensivas.
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/adrian-felipe-ibarra-lopez/) ·
-[Credly](https://www.credly.com/users/adrian-felipe-ibarra-lopez) · Colombia
+- [GitHub](https://github.com/felipeIbarra98)
+- [LinkedIn](https://www.linkedin.com/in/adrian-felipe-ibarra-lopez)
+- [Insignias verificadas en Credly](https://www.credly.com/users/adrian-felipe-ibarra-lopez)

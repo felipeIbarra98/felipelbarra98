@@ -56,6 +56,8 @@ segmentación de red, reglas de firewall y validaciones defensivas.
 
 ## Formación complementaria
 
+[Ver perfil e insignias verificables en Credly](https://www.credly.com/users/adrian-felipe-ibarra-lopez)
+
 - AWS Academy Cloud Foundations.
 - AWS Academy Cloud Security Foundations.
 - AWS Academy Cloud Security Builder.
@@ -68,4 +70,5 @@ segmentación de red, reglas de firewall y validaciones defensivas.
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/adrian-felipe-ibarra-lopez/) · Colombia
+[LinkedIn](https://www.linkedin.com/in/adrian-felipe-ibarra-lopez/) ·
+[Credly](https://www.credly.com/users/adrian-felipe-ibarra-lopez) · Colombia

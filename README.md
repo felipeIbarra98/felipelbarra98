@@ -2,55 +2,74 @@
   <img src="assets/profile-banner.png" alt="Adrián Felipe Ibarra López - Cloud Security, DevSecOps y ciberseguridad defensiva" width="100%">
 </p>
 
-## Sobre mí
+## Perfil profesional
 
-Ingeniero electrónico y estudiante de especialización en Tecnologías de la
-Información y las Comunicaciones, orientado a **Cloud Security, DevSecOps y
-ciberseguridad defensiva**.
+Soy ingeniero electrónico enfocado en **Cloud Security, DevSecOps y
+ciberseguridad defensiva**. Diseño e implemento soluciones que integran
+infraestructura AWS, seguridad de redes, automatización, desarrollo backend e
+IoT.
 
-Construyo laboratorios y soluciones que combinan infraestructura cloud,
-automatización, redes y desarrollo backend. Actualmente busco oportunidades
-junior en **Cloud, Cloud Security o DevSecOps**, con proyección hacia
-arquitectura cloud segura.
+Mi experiencia incluye arquitecturas cloud seguras, segmentación y protección
+de redes, gestión de identidades y accesos, cifrado, monitoreo, hardening,
+autenticación, roles y permisos, trazabilidad y estrategias de respaldo. También
+he desarrollado sistemas empresariales para operación POS, gestión hotelera y
+administración funeraria, participando desde el levantamiento de necesidades
+hasta las pruebas, documentación, despliegue, capacitación y soporte.
 
-## Enfoque técnico
+Busco oportunidades junior en **Cloud, Cloud Security, DevSecOps o
+ciberseguridad**, con proyección hacia el diseño y la administración de
+arquitecturas cloud seguras.
 
-- **Cloud y seguridad:** AWS, IAM, VPC, monitoreo, hardening y seguridad de redes.
+## Experiencia técnica
+
+- **Cloud y arquitectura segura:** AWS, IAM, VPC, EC2, S3, redes públicas y
+  privadas, cifrado, monitoreo y controles de acceso.
+- **Ciberseguridad defensiva:** segmentación, firewalls, ACL, hardening,
+  análisis de logs y validaciones controladas de seguridad.
 - **DevSecOps y automatización:** Linux, Docker, GitHub Actions, CI/CD y Git.
-- **Desarrollo backend:** Python, FastAPI, APIs REST, PostgreSQL y SQLite.
+- **Seguridad de aplicaciones:** autenticación, RBAC, trazabilidad, validación
+  de datos, copias de seguridad y recuperación.
+- **Seguridad IoT:** comunicaciones MQTT protegidas con TLS, autenticación,
+  ACL y actualización OTA segura sobre ESP32-C6.
+- **Backend y datos:** Python, FastAPI, APIs REST, PostgreSQL, SQLite,
+  SQLAlchemy y Alembic.
 
-## Proyectos publicados
+## Implementaciones destacadas
 
-Actualmente mi perfil reúne cuatro proyectos técnicos públicos, además de este
-repositorio de presentación.
+### [AWS E-commerce | Arquitectura cloud segura](https://github.com/felipeIbarra98/aws-ecommerce-lab)
 
-### [AWS E-commerce Lab](https://github.com/felipeIbarra98/aws-ecommerce-lab)
+Diseñé y documenté una arquitectura web en AWS con VPC, cuatro subredes
+distribuidas en dos zonas de disponibilidad, EC2, base de datos privada, NAT
+Gateway, jump host y S3. Apliqué y evalué controles de IAM, Security Groups,
+NACL, cifrado y monitoreo para reducir exposición y mejorar la disponibilidad.
 
-Caso técnico de arquitectura web segura en AWS con VPC, EC2, S3, controles IAM,
-cifrado, monitoreo y análisis de mejoras para alta disponibilidad.
+`AWS` `Cloud Security` `VPC` `EC2` `S3` `IAM` `Security Groups` `NACL`
 
-`AWS` `Cloud Security` `VPC` `EC2` `S3` `IAM`
+### [ViviSmart | Seguridad de red e infraestructura IoT](https://github.com/felipeIbarra98/vivismart-cybersecurity-lab)
 
-### [ViviSmart Cybersecurity Lab](https://github.com/felipeIbarra98/vivismart-cybersecurity-lab)
+Implementé una arquitectura segmentada con pfSense y tres zonas de seguridad,
+configurando reglas de firewall y ACL. Incorporé TLS, cifrado en reposo,
+respaldos y mínimo privilegio, y realicé validaciones defensivas con Nmap,
+Metasploit y Burp Suite para identificar exposiciones y proponer controles.
 
-Laboratorio autorizado de ciberseguridad para un entorno IoT, enfocado en
-segmentación de red, reglas de firewall y validaciones defensivas.
+`pfSense` `Nmap` `Metasploit` `Burp Suite` `TLS` `Network Security`
 
-`pfSense` `Nmap` `Metasploit` `VirtualBox` `Network Security`
+### [NovaPOS | Sistema POS cliente-servidor](https://github.com/felipeIbarra98/novapos-pos-system)
 
-### [NovaPOS](https://github.com/felipeIbarra98/novapos-pos-system)
-
-Sistema POS cliente-servidor para ventas, inventario, compras, clientes,
-créditos, caja, usuarios, reportes y respaldos. Integra una aplicación de
-escritorio con una API y una base de datos relacional.
+Desarrollé una solución para ventas, inventario, compras, clientes, créditos,
+caja, usuarios, reportes y respaldos. Integré una aplicación de escritorio con
+una API y una base de datos relacional, incorporando autenticación, perfiles de
+acceso, validaciones y operación en red local.
 
 `Python` `PySide6` `FastAPI` `PostgreSQL` `Alembic` `REST API`
 
-### [Sistema de Gestión Funeraria](https://github.com/felipeIbarra98/funeral-management-desktop)
+### [Sistema de Gestión Funeraria | Aplicación en operación](https://github.com/felipeIbarra98/funeral-management-desktop)
 
-Aplicación de escritorio para gestionar afiliados, beneficiarios, contratos,
-servicios funerarios, pagos, caja, recordatorios y documentos. Incluye
-generación de plantillas Word, respaldos y operación local con SQLite.
+Diseñé, implementé y desplegué una aplicación para un cliente real, destinada a
+gestionar afiliados, beneficiarios, contratos, servicios funerarios, pagos,
+caja, recordatorios y documentos. El trabajo incluye generación de plantillas,
+respaldos, capacitación, soporte y mejora continua a partir de la operación
+diaria.
 
 `Python` `PySide6` `SQLite` `Document Automation` `PyInstaller`
 
@@ -58,9 +77,9 @@ generación de plantillas Word, respaldos y operación local con SQLite.
 > portafolio sanitizadas, sin bases de datos, credenciales, documentos privados
 > ni información de clientes.
 
-## Formación complementaria
+## Certificaciones y credenciales
 
-[Ver perfil e insignias verificables en Credly](https://www.credly.com/users/adrian-felipe-ibarra-lopez)
+[Ver insignias verificables en Credly](https://www.credly.com/users/adrian-felipe-ibarra-lopez)
 
 - AWS Academy Cloud Foundations.
 - AWS Academy Cloud Security Foundations.
@@ -68,9 +87,10 @@ generación de plantillas Word, respaldos y operación local con SQLite.
 - AWS Academy Cloud Web Application Builder.
 - Cisco CyberOps Associate.
 
-## Actualmente fortaleciendo
+## Enfoque profesional actual
 
-`AWS` · `Linux` · `Docker` · `DevSecOps` · `Infraestructura como código`
+`Cloud Security` · `AWS` · `Linux` · `Docker` · `DevSecOps` ·
+`Ciberseguridad defensiva` · `Seguridad de redes` · `IoT Security`
 
 ## Contacto
 
